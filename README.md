@@ -11,7 +11,7 @@ I’m a **Software Engineering student** at UniBrasil, currently in my 4th semes
 ## 💡 Currently learning:
 - **POO**
 - **MongoDB**
-- **UML**
+- **UML Diagrams**
 
 ## 🔧 Tools & Technologies:
 - **Languages**: Java, C#, JavaScript, SQL, PHP
