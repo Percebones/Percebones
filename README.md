@@ -19,7 +19,8 @@ I’m a **Software Engineering student** at UniBrasil, currently in my 4th semes
 - **Cloud**: Azure
 
 ## 🌐 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/thiago-percebon-silva-1a9294279)
+- ![image](https://github.com/user-attachments/assets/91d49cbd-0631-497a-8ea3-e0a0b841f10e)
+
 - 📫 [Email](mailto:thiagopercebon2@hotmail.com)
 
 Feel free to connect with me, ask questions, or collaborate! Let's build something together. 👨‍💻
