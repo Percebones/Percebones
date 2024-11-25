@@ -9,7 +9,7 @@ I’m a **Software Engineering student** at UniBrasil, currently in my 4th semes
 - **Open Source Contributions** 🌍
 
 ## 💡 Currently learning:
-- **Advanced Java**
+- **POO**
 - **MongoDB**
 - **UML**
 
