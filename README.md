@@ -25,4 +25,5 @@ I’m a **Software Engineering student** at UniBrasil, currently in my 4th semes
 Feel free to connect with me, ask questions, or collaborate! Let's build something together. 👨‍💻
 
 
-https://i.gifer.com/78Dx.gif
+
+![78Dx](https://github.com/user-attachments/assets/86b07733-f181-45a4-bd5f-7265622f6141)
