@@ -6,6 +6,7 @@ I’m a **Software Engineering student** at UniBrasil, currently in my 4th semes
 - **Software Engineering** 💻
 - **Investing & Finance** 📈
 - **Games** 🎮
+- **Anime**🥷
 - **Open Source Contributions** 🌍
 
 ## 💡 Currently learning:
