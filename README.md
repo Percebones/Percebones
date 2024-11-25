@@ -23,3 +23,6 @@ I’m a **Software Engineering student** at UniBrasil, currently in my 4th semes
 - 📫 [Email](mailto:thiagopercebon2@hotmail.com)
 
 Feel free to connect with me, ask questions, or collaborate! Let's build something together. 👨‍💻
+
+
+https://i.gifer.com/78Dx.gif
