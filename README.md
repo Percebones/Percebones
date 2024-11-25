@@ -21,8 +21,6 @@ I’m a **Software Engineering student** at UniBrasil, currently in my 4th semes
 ## 🌐 Connect with me:
 - [![LinkedIn](https://img.shields.io/badge/-Thiago%20Percebon%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-percebon-silva-1a9294279)](https://www.linkedin.com/in/thiago-percebon-silva-1a9294279)
 
-- ![Email](https://github.com/user-attachments/assets/ad90787f-8d5f-4e41-a587-9e8dda2ab9f7)[Email](mailto:thiagopercebon2@hotmail.com)
-
 
 
 Feel free to connect with me, ask questions, or collaborate! Let's build something together. 👨‍💻
