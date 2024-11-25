@@ -10,7 +10,7 @@ I’m a **Software Engineering student** at UniBrasil, currently in my 4th semes
 
 ## 💡 Currently learning:
 - **Advanced Java**
-- **![image](https://github.com/user-attachments/assets/53bab9b0-ae6e-4607-bb8d-d9754eaf7690)**
+- **MongoDB**
 - **UML**
 
 ## 🔧 Tools & Technologies:
