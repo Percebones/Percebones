@@ -10,9 +10,7 @@ I’m a **Software Engineering student** at UniBrasil, currently in my 5th semes
 - **Open Source Contributions** 🌍
 
 ## 💡 Currently learning:
-- **POO**
-- **MongoDB**
-- **UML Diagrams**
+- **advanced programing**
 
 ## 🔧 Tools & Technologies:
 - **Languages**: Java, C#, JavaScript, SQL, PHP
