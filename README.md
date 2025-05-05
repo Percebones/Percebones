@@ -13,7 +13,7 @@ I’m a **Software Engineering student** at UniBrasil, currently in my 5th semes
 - **Advanced programing using C**
 
 ## 🔧 Tools & Technologies:
-- **Languages**: Java, C#, JavaScript, SQL, PHP,Flutter, Dart,C/C++
+- **Languages**: Java, C#, JavaScript, SQL, PHP,Flutter, Dart, C/C++
 - **Databases**: SQL Server, MongoDB, MySQL
 - **Cloud**: Azure
 
