@@ -11,6 +11,9 @@ I’m a **Software Engineering student** at UniBrasil, currently in my 5th semes
 
 ## 💡 Currently learning:
 - **Advanced programing using C**
+- **Fluter*
+- **Dart**
+
 
 ## 🔧 Tools & Technologies:
 - **Languages**: Java, C#, JavaScript, SQL, PHP, Flutter, Dart, C/C++
