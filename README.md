@@ -10,9 +10,8 @@ I’m a **Software Engineering student** at UniBrasil, currently in my 5th semes
 - **Open Source Contributions** 🌍
 
 ## 💡 Currently learning:
-- **Advanced programing using C**
-- **Fluter**
-- **Dart**
+- ****
+
 
 
 ## 🔧 Tools & Technologies:
