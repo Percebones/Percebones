@@ -11,6 +11,7 @@ I’m a **Software Engineering student** at UniBrasil, currently in my 6th semes
 
 ## 💡 Currently learning:
 - React Native
+- Introduction to Artificial Intelligence
 
 
 
