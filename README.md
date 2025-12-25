@@ -16,7 +16,7 @@ I’m a **Software Engineering student** at UniBrasil, currently in my 6th semes
 
 
 ## 🔧 Tools & Technologies:
-- **Languages**: Java, C#, JavaScript, SQL, PHP, Flutter, Dart, C/C++, python
+- **Languages**: Java, C#, JavaScript, SQL, PHP, React-Native, C/C++, python
 - **Databases**: SQL Server, MongoDB, MySQL
 - **Cloud**: Azure
 
