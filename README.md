@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Thiago Percebon Silva
 
-I’m a **Software Engineering student** at UniBrasil, currently in my 6th semester, based in **Curitiba**. I also have a technical background with a certification in **Analysis and Systems Development (ADS)** from SENAI.
+I’m a **Software Engineering student** at UniBrasil, currently in my 8th semester, based in **Curitiba**. I also have a technical background with a certification in **Analysis and Systems Development (ADS)** from SENAI.
 
 ## 👀 I’m interested in...
 - **Software Engineering** 💻
