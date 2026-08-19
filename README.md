@@ -16,8 +16,8 @@ I’m a **Software Engineering student** at UniBrasil, currently in my 8th semes
 
 
 ## 🔧 Tools & Technologies:
-- **Languages**: Java, C#, JavaScript, SQL, PHP, React-Native, C/C++, python
-- **Databases**: SQL Server, MongoDB, MySQL
+- **Languages**: Java, C#, Typescript, SQL, React-Native, C/C++, python
+- **Databases**: SQL Server, Oracle
 - **Cloud**: Azure
 
 ## 🌐 Connect with me:
