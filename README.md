@@ -10,9 +10,6 @@ I’m a **Software Engineering student** at UniBrasil, currently in my 8th semes
 - **Open Source Contributions** 🌍
 
 ## 💡 Currently learning:
-- React Native
-- Introduction to Artificial Intelligence
-
 
 
 ## 🔧 Tools & Technologies:
